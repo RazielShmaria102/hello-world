@@ -6,7 +6,7 @@ Not My firs one but...New Stuff at tehe end of the line
 2. העברית ואנגלית
 
 4. ארבע
-
+5.Kמחיקה
 
 
 'code and  for Apple  String new stuff in the middel of the line Int bool'
