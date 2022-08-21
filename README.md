@@ -8,7 +8,7 @@ Not My firs one but...
 4. ארבע
 
 
-'code String Int bool'
+'code for Apple String Int bool'
 
 [Go to](https://www.google.com)
 
