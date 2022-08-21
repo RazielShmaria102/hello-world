@@ -8,7 +8,9 @@ Not My firs one but...New Stuff at tehe end of the line
 4. ארבע
 
 
-'code String new stuff in the middel of the line Int bool'
+
+'code and  for Apple  String new stuff in the middel of the line Int bool'
+
 
 [Go to](https://www.google.com)
 
